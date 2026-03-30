@@ -23,8 +23,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,sqlserver" />
 </p>
 
-/>
-
 ## 🐍 Contribuciones
 
 <p align="center">
