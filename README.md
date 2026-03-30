@@ -20,8 +20,10 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,html,css,js,git,github,visualstudio" />
 </p>
+
+---
 
 ## 🐍 Contribuciones
 
