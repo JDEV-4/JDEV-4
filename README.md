@@ -23,14 +23,7 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,sqlserver" />
 </p>
 
----
-
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+/>
 </div>
 
 ---
