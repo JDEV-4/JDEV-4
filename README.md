@@ -13,9 +13,6 @@
 
 * 💻 Desarrollador en formación enfocado en backend
 * 🧠 Experiencia con C#, .NET y bases de datos SQL Server
-* 🏆 Participante en Hackathon Nicaragua 2025 y rallys tecnológicos
-* 🤖 Certificado en robótica educativa y herramientas de inteligencia artificial
-* 📊 Promedio académico: 4.53
 * 🎯 Enfocado en crecimiento profesional y oportunidades en desarrollo de software
 
 ---
@@ -28,21 +25,6 @@
 
 ---
 
-## 📂 Proyectos destacados
-
-### 🧾 Sistema de inscripción de estudiantes
-
-* Aplicación de escritorio con Windows Forms
-* Gestión de estudiantes, materias y pagos
-* Integración con SQL Server mediante procedimientos almacenados
-
-### 🛒 API de gestión de ventas (Proyecto en desarrollo)
-
-* API REST con ASP.NET Core
-* Manejo de productos, usuarios y transacciones
-* Enfoque en arquitectura limpia
-
----
 
 ## 📊 Estadísticas de GitHub
 
@@ -52,25 +34,6 @@
 </div>
 
 ---
-
-## 🌐 Conecta conmigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://github.com/bastndev" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-0A0A0B?logo=github&style=for-the-badge&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 👀 Visitas al perfil
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/bastndev/count.svg" />
-</p>
 
 ---
 
