@@ -24,11 +24,6 @@
 </p>
 
 />
-</div>
-
----
-
----
 
 ## 🐍 Contribuciones
 
